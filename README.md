@@ -20,10 +20,12 @@
 
 
 <div align="center">
-<br><p align="centre"><b>Main Skills</b></p>  
+<br><p align="centre"><b></b></p>  
 <p align="center"><img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></p> 
+<p align="center"><img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></p> 
 <br>
 </div>
+
 
 
 <div align="center">
