@@ -19,17 +19,17 @@
 </div>
 
 
- 
- ### Main skills:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-
+<div align="center">
+<br><p align="centre"><b>Main Skills</b></p>  
+<p align="center"><img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></p> 
+<br>
+</div>
 
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gguarani}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=gguarani&color=blueviolet&style=for-the-badge"/></p> 
 <br>
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7868DB&height=120&section=footer"/>
